@@ -7,3 +7,7 @@ Team Members:
 2. M.S.Keerthi Priya
 3. Aadhithya Hariharan
 4. L.Manickam
+
+Industry Mentor(s) Name: Sowjanya, Sandeep Doodigani
+
+Faculty Mentor(s) Name: Bhuvana J
