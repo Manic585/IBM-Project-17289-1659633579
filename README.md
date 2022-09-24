@@ -5,7 +5,7 @@ Team Members:
 
 1. S.N.Namshika
 2. M.S.Keerthi Priya
-3. Aadhithya Hariharan
+3. Aadithya Hariharan
 4. L.Manickam
 
 Industry Mentor(s) Name: Sowjanya, Sandeep Doodigani
