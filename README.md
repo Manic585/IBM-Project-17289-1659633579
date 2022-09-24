@@ -3,7 +3,7 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 
 Team Members:
 
-1. S.N.Namshika
+1. Namshika S N
 2. M.S.Keerthi Priya
 3. Aadithya Hariharan
 4. L.Manickam
