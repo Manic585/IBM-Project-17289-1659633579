@@ -1,7 +1,7 @@
 Project Design Phase II
 
-Customer Journey
-Data Flow Diagrams and User Stories
-Solution Requirements
-Technology Stack
+1. Customer Journey
+2. Data Flow Diagrams and User Stories
+3. Solution Requirements
+4. Technology Stack
 
